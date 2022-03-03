@@ -10,3 +10,7 @@ make up a blog website.
 创建数据库, 运行 init-db 命令：
 
     $ flask init-db
+
+使用 pip 在虚拟环境中安装项目。
+
+    $ pip install -e .
